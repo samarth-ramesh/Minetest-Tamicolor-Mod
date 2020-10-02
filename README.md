@@ -1,3 +1,3 @@
 # Minetest-Tamicolor-Mod
 
-Nothing to see here
+Minetest-Tamicolor-Mod, by ComputeGraphics, adds in a few tools and ores among others to minetest game... 
